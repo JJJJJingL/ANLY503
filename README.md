@@ -28,6 +28,9 @@ There are 7 datasets used in this project (Birth Rate data is the same datastes 
   - Healthcare_birthrate.csv, Birth Rate
   - health_MR.csv,Mortality Rate of Infant The lower mortality rate of infant, the better healthcare a country has 
   - health_CP.csv, Contraceptive Prevalence The high rate of contraception means that a country has a better healthcare
+- For global:
+  - global time series birth rate.xlsx
+  - 2017 global birth rate.xlsx
   
 # Code Instruction 
 ### 1. All the development file(s), 2. Code
