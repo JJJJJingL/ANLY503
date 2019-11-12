@@ -5,10 +5,14 @@ This research aims to discuss the causes of the declining birthrate phenomenon f
 # Datasets
 There are xxx datasets used in this project
 - For datasets in Economic:
-  - SecondaryEnrol.xls
-  - birthrate.xls
-  - WageGenderGap.xls
+  - inflation_data.csv, Inflation worldwide
+  - gdp_data.csv, GDP worldwide
+  - Econ_birthrate_data.csv, Birth Rate
 - For datasets in Gender Equality:
-
-
+  - SecondaryEnrol.xls, School enrollment, secondary, female (% gross)
+  - birthrate.xls, Birth Rate
+  - WageGenderGap.xls, Wage and salaried workers, female (% of female employment) (modeled ILO estimate)
 - For datasets in Healthcare:
+ - Healthcare_birthrate.csv, Birth Rate
+ - health_MR.csv
+ - health_CP.csv
