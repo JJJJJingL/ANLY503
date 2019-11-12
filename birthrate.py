@@ -74,8 +74,6 @@ def econAnalysis():
     
     econ_data=econ_data[econ_data['year']<=2017]
     
-    # save to csv
-    econ_data.to_csv('/Users/qq/Desktop/y2/visualization/proj/combined_whole.csv')
     
 
          
