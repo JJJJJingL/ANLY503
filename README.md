@@ -4,6 +4,15 @@ Authors: Jingjing Lin, Ruiwen Zhang, Yeqing Liu
 # Objectives
 This research aims to discuss the causes of the declining birthrate phenomenon from the economic background (E), the rise of Gender Equality: feminism (F) and the healthcare (H) , then conduct 3 case studies of China, USA and India, to see how those factors influence the birthrate in the real world. 
 
+# Requirements
+
+-[x] All the development file(s)
+-[x] Code
+-[x] Data used for analysis (raw data and wrangled data)
+-[x] Data visualization(s)
+-[x] Clear screenshots of your visualization(s)
+-[x] Your slides and any other presentation material
+
 # Datasets 
 ### 3. Data used for analysis (raw data)
 There are 7 datasets used in this project (Birth Rate data is the same datastes for each topic)
