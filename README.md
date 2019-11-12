@@ -14,5 +14,5 @@ There are xxx datasets used in this project
   - WageGenderGap.xls, Wage and salaried workers, female (% of female employment) (modeled ILO estimate)
 - For datasets in Healthcare:
  - Healthcare_birthrate.csv, Birth Rate
- - health_MR.csv
- - health_CP.csv
+ - health_MR.csv, Mortality Rate of Infant
+ - health_CP.csv, Contraceptive Prevalence
