@@ -138,7 +138,7 @@ def econAnalysis():
     
     
     
-    ################# Feminism Analysis #3###########################
+    ################# Gender Equality: Feminism Analysis #3###########################
 
 def fem_plot(x,y,y1,titleText):
     # define colors
