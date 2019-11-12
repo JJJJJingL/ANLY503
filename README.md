@@ -6,12 +6,12 @@ This research aims to discuss the causes of the declining birthrate phenomenon f
 
 # Requirements
 
--[x] All the development file(s)
--[x] Code
--[x] Data used for analysis (raw data and wrangled data)
--[x] Data visualization(s)
--[x] Clear screenshots of your visualization(s)
--[x] Your slides and any other presentation material
+- [x] All the development file(s)
+- [x] Code
+- [x] Data used for analysis (raw data and wrangled data)
+- [x] Data visualization(s)
+- [x] Clear screenshots of your visualization(s)
+- [x] Your slides and any other presentation material
 
 # Datasets 
 ### 3. Data used for analysis (raw data)
