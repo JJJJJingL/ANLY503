@@ -154,7 +154,9 @@ def fem_plot(x,y,y1,titleText):
     ax = fig.gca() 
     ax.bar(x, y, align='center', alpha=0.5,color=colors)   
     ax.plot(x, y1)
-    
+    plt.xticks(rotation=90)
+    plt.xlabel('Year')
+    plt.ylabel('Rate (%)')
     ax.title.set_text(titleText)
     plt.show()
     
